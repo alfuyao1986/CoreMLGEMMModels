@@ -35,6 +35,14 @@ TIP: you may modify the script to generate models with different dimensions
 ## Performance profiling with xcode
 Install xcode from AppStore
 
+![xcode icon](screenshots/xcode_icon.png)
+
 Once xcode is installed, you should be able to open the generated mlmodel files
 
+![example mlmodel file](screenshots/mlmodel_icon.png)
+
 With the mlmodel file open, performance profiling can be done by click on the performance tab, then, click on the "+" sign to add performance tests.
+
+![create performance report](screenshots/create_performance_report.png)
+
+![example performance report](screenshots/performance_report_example.png)
