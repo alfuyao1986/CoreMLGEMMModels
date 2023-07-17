@@ -11,7 +11,7 @@ pip install torch==2.0.0 numpy scikit-learn==1.1.2 coremltools
 pip install jupyterlab
 ```
 ## Generate CoreML models
-Short cut: generated default models can be downloaded from here: https://1drv.ms/u/s!AmZvROUhZtUdgZFhd7l3VNuAyfMNCA?e=peaJgo
+Short cut: generated default models can be downloaded from here: [Models.zip](https://1drv.ms/u/s!AmZvROUhZtUdgZFhd7l3VNuAyfMNCA)
 
 
 ### with Notebook
